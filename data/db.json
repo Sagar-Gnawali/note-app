@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "title": "Alex",
+      "details": "He gave me $200.",
+      "category": "money",
+      "id": 1
+    },
+    {
+      "title": "Sinjana Thomas",
+      "details": "I gave her $690.",
+      "category": "money",
+      "id": 2
+    },
+    {
+      "title": "Material-ui",
+      "details": "Complete this topic before 4 pm.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Submit task",
+      "details": "Submit all tasks before 6 pm.",
+      "category": "work",
+      "id": 4
+    },
+    {
+      "title": "Meetings ",
+      "details": "Meetings at 2 pm.",
+      "category": "reminders",
+      "id": 5
+    },
+    {
+      "title": "Check files",
+      "details": "Check all files before 10th june.",
+      "category": "work",
+      "id": 6
+    },
+    {
+      "title": "Finish my project",
+      "details": "Finish ABC project before 12th May.",
+      "category": "todos",
+      "id": 7
+    }
+  ]
+}
